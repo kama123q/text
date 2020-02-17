@@ -1,2 +1,3 @@
 c=` expr $1 + $2 `
-echo "$c"
+echo "Sum=$c"
+
