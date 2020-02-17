@@ -1,2 +1,2 @@
-c=`expr $1 + $2`
+c=` expr $1 + $2 `
 echo "$c"
